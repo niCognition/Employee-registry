@@ -8,7 +8,7 @@ public class Programmer extends Employee {
     private String versionManagement;
 
     public Programmer(String name, int socialSecNr, String address, int phoneNr, String workHistory, String codeLanguages, String dataBase, String versionManagement) {
-        super(name, 901214, "Fagrabovägen", 0765656266, "Industriarbetare");
+        super(name, 901214, "Fagrabovägen", 0766565266, "Industriarbetare");
         this.codeLanguages = codeLanguages;
         this.dataBase = dataBase;
         this.versionManagement = versionManagement;
