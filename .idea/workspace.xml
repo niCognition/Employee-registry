@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f3d4e3c-4267-4780-bb35-1f8a12390866" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/exercise/employeeregistry/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/employeeregistry/Programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/employeeregistry/EmployeeRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/employeeregistry/EmployeeRegistry.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568799846518</updated>
       <workItem from="1568799847651" duration="5547000" />
-      <workItem from="1568805627159" duration="654000" />
+      <workItem from="1568805627159" duration="761000" />
     </task>
     <servers />
   </component>
