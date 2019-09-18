@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f3d4e3c-4267-4780-bb35-1f8a12390866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/exercise/employeeregistry/EmployeeRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercise/employeeregistry/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercise/employeeregistry/Programmer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\GitHub\Employee registry\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1R0N2UzLe1UK5JXtHSiI3X2KoGV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568799846518</updated>
       <workItem from="1568799847651" duration="5547000" />
-      <workItem from="1568805627159" duration="253000" />
+      <workItem from="1568805627159" duration="654000" />
     </task>
     <servers />
   </component>
